@@ -6,7 +6,7 @@ let a = prompt("Enter the first number: ");
 let b = prompt("Enter the second number: ");
 let c = prompt("Enter the third number: ");
 
-// calculate discriminant
+
 let discriminant = b * b - 4 * a * c;
 
 // condition for real and different roots
